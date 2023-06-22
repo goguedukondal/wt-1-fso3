@@ -1,0 +1,28 @@
+.footer{
+    display: grid;
+    grid-template-columns: 30% 25% 45%;
+    justify-content: flex-start;
+    gap: 10px;
+    
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+h4{
+    margin: 10px;
+    text-align: start;
+    margin-left: 80px;
+}
+.about{
+    text-align: start;
+    width: 200px;
+    margin: auto;
+}
+.footer div{
+    text-align: start;
+
+}

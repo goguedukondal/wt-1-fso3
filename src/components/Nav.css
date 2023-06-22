@@ -1,0 +1,22 @@
+.nav{
+    margin-right: 40px;
+    margin-left: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-list{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-list li{
+    margin-left: 20px;
+    list-style: none;
+}
+.Logo{
+    line-height: 5px;
+}
+.Home{
+    color: blue;
+}
